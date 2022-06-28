@@ -1,0 +1,63 @@
+﻿{
+  "results": [
+    {
+      "id": 0,
+      "text": "Không"
+    },
+    {
+      "id": 1,
+      "text": "Phật giáo"
+    },
+    {
+      "id": 2,
+      "text": "Công giáo"
+    },
+    {
+      "id": 3,
+      "text": "Phật giáo Hoà Hảo"
+    },
+    {
+      "id": 4,
+      "text": "Hồi Giáo"
+    },
+    {
+      "id": 5,
+      "text": "Cao Đài"
+    },
+    {
+      "id": 6,
+      "text": "Minh Sư Đạo"
+    },
+    {
+      "id": 7,
+      "text": "Minh Lý Đạo"
+    },
+    {
+      "id": 8,
+      "text": "Tin Lành"
+    },
+    {
+      "id": 9,
+      "text": "Tịnh độ cư sĩ Phật hội Việt Nam"
+    },
+    {
+      "id": 10,
+      "text": "Tứ Ân Hiếu Nghĩa"
+    },
+    {
+      "id": 11,
+      "text": "Bửu Sơn Kỳ Hương"
+    },
+    {
+      "id": 12,
+      "text": "Bahá'í"
+    },
+    {
+      "id": 13,
+      "text": "Bà La Môn"
+    }
+  ],
+  "pagination": {
+    "more": false
+  }
+}

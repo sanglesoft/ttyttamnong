@@ -1,0 +1,227 @@
+﻿{
+  "results": [
+    {
+      "id": 1,
+      "text": "Kinh"
+    },
+    {
+      "id": 2,
+      "text": "Tày"
+    },
+    {
+      "id": 3,
+      "text": "Thái"
+    },
+    {
+      "id": 4,
+      "text": "Hoa"
+    },
+    {
+      "id": 5,
+      "text": "Khơ Me"
+    },
+    {
+      "id": 6,
+      "text": "Mường"
+    },
+    {
+      "id": 7,
+      "text": "Nùng"
+    },
+    {
+      "id": 8,
+      "text": "H'Mông"
+    },
+    {
+      "id": 9,
+      "text": "Dao"
+    },
+    {
+      "id": 10,
+      "text": "Gia Rai"
+    },
+    {
+      "id": 11,
+      "text": "Ngáy"
+    },
+    {
+      "id": 12,
+      "text": "Ê Đê"
+    },
+    {
+      "id": 13,
+      "text": "Ba Na"
+    },
+    {
+      "id": 14,
+      "text": "Xơ Đăng"
+    },
+    {
+      "id": 15,
+      "text": "Sán Chay"
+    },
+    {
+      "id": 16,
+      "text": "Cơ Ho"
+    },
+    {
+      "id": 17,
+      "text": "Chăm"
+    },
+    {
+      "id": 18,
+      "text": "Sán Dìu"
+    },
+    {
+      "id": 19,
+      "text": "Hrê"
+    },
+    {
+      "id": 20,
+      "text": "M'Nông"
+    },
+    {
+      "id": 21,
+      "text": "Ra Glai"
+    },
+    {
+      "id": 22,
+      "text": "X'Tiêng"
+    },
+    {
+      "id": 23,
+      "text": "Bru-Vân Kiều"
+    },
+    {
+      "id": 24,
+      "text": "Thổ"
+    },
+    {
+      "id": 25,
+      "text": "Giáy"
+    },
+    {
+      "id": 26,
+      "text": "Cơ Tu"
+    },
+    {
+      "id": 27,
+      "text": "Giẻ Triêng"
+    },
+    {
+      "id": 28,
+      "text": "Mạ"
+    },
+    {
+      "id": 29,
+      "text": "Khơ Mú"
+    },
+    {
+      "id": 30,
+      "text": "Co"
+    },
+    {
+      "id": 31,
+      "text": "Tà Ôi"
+    },
+    {
+      "id": 32,
+      "text": "Chơ Ro"
+    },
+    {
+      "id": 33,
+      "text": "Kháng"
+    },
+    {
+      "id": 34,
+      "text": "Xinh Mun"
+    },
+    {
+      "id": 35,
+      "text": "Hà Nhì"
+    },
+    {
+      "id": 36,
+      "text": "Chu ru"
+    },
+    {
+      "id": 37,
+      "text": "Lào"
+    },
+    {
+      "id": 38,
+      "text": "La Chí"
+    },
+    {
+      "id": 39,
+      "text": "La Ha"
+    },
+    {
+      "id": 40,
+      "text": "Phù Lá"
+    },
+    {
+      "id": 41,
+      "text": "La Hủ"
+    },
+    {
+      "id": 42,
+      "text": "Lự"
+    },
+    {
+      "id": 43,
+      "text": "Lô Lô"
+    },
+    {
+      "id": 44,
+      "text": "Chứt"
+    },
+    {
+      "id": 45,
+      "text": "Mảng"
+    },
+    {
+      "id": 46,
+      "text": "Pà Thẻn"
+    },
+    {
+      "id": 47,
+      "text": "Cờ Lao"
+    },
+    {
+      "id": 48,
+      "text": "Cống"
+    },
+    {
+      "id": 49,
+      "text": "Bố Y"
+    },
+    {
+      "id": 50,
+      "text": "Si La"
+    },
+    {
+      "id": 51,
+      "text": "Pu Péo"
+    },
+    {
+      "id": 52,
+      "text": "Brâu"
+    },
+    {
+      "id": 53,
+      "text": "Ơ Đu"
+    },
+    {
+      "id": 54,
+      "text": "Rơ Măm"
+    },
+    {
+      "id": -1,
+      "text": "Nước ngoài"
+    }
+  ],
+  "pagination": {
+    "more": false
+  }
+}

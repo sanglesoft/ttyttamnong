@@ -1,0 +1,15 @@
+﻿{
+  "results": [
+    {
+      "text": "Nam",
+      "id": "1"
+    },
+    {
+      "text": "Nữ",
+      "id": "2"
+    }
+  ],
+  "pagination": {
+    "more": false
+  }
+}

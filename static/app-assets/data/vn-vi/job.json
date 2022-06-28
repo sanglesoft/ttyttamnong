@@ -1,0 +1,83 @@
+﻿{
+  "results": [
+    {
+      "id": 1,
+      "text": "Học sinh"
+    },
+    {
+      "id": 2,
+      "text": "Sinh viên"
+    },
+    {
+      "id": 3,
+      "text": "Giáo viên"
+    },
+    {
+      "id": 17,
+      "text": "Y - Bác sĩ"
+    },
+    {
+      "id": 18,
+      "text": "Điện lực"
+    },
+    {
+      "id": 17,
+      "text": "Bưu chính - viễn thông"
+    },
+    {
+      "id": 8,
+      "text": "Văn phòng"
+    },
+    {
+      "id": 9,
+      "text": "Kinh doanh"
+    },
+    {
+      "id": 10,
+      "text": "Diễn viên"
+    },
+    {
+      "id": 11,
+      "text": "Nhà văn"
+    },
+    {
+      "id": 12,
+      "text": "Nhà báo"
+    },
+    {
+      "id": 13,
+      "text": "Nhạc sĩ"
+    },
+    {
+      "id": 14,
+      "text": "Bộ đội"
+    },
+    {
+      "id": 15,
+      "text": "Công an"
+    },
+    {
+      "id": 4,
+      "text": "Viên chức"
+    },
+    {
+      "id": 5,
+      "text": "Công chức"
+    },
+    {
+      "id": 6,
+      "text": "Công nhân"
+    },
+    {
+      "id": 7,
+      "text": "Nông dân"
+    },
+    {
+      "id": 16,
+      "text": "Khác"
+    }
+  ],
+  "pagination": {
+    "more": false
+  }
+}

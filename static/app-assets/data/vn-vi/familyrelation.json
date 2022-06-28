@@ -1,0 +1,123 @@
+﻿{
+  "results": [
+    {
+      "id": 1,
+      "text": "Cha"
+    },
+    {
+      "id": 2,
+      "text": "Mẹ"
+    },
+    {
+      "id": 5,
+      "text": "Ông nội"
+    },
+    {
+      "id": 6,
+      "text": "Bà nội"
+    },
+    {
+      "id": 7,
+      "text": "Ông ngoại"
+    },
+    {
+      "id": 8,
+      "text": "Bà ngoại"
+    },
+    {
+      "id": 9,
+      "text": "Cô"
+    },
+    {
+      "id": 10,
+      "text": "Chú"
+    },
+    {
+      "id": 11,
+      "text": "Bác"
+    },
+    {
+      "id": 12,
+      "text": "Cậu"
+    },
+    {
+      "id": 13,
+      "text": "Dì"
+    },
+    {
+      "id": 16,
+      "text": "Dượng"
+    },
+    {
+      "id": 17,
+      "text": "Mợ"
+    },
+    {
+      "id": 18,
+      "text": "Thiếm"
+    },
+    {
+      "id": 3,
+      "text": "Anh"
+    },
+    {
+      "id": 4,
+      "text": "Chị"
+    },
+    {
+      "id": 14,
+      "text": "Cha nuôi"
+    },
+    {
+      "id": 15,
+      "text": "Mẹ nuôi"
+    },
+    {
+      "id": 19,
+      "text": "Vợ/Chồng"
+    },
+    {
+      "id": 20,
+      "text": "Anh chồng"
+    },
+    {
+      "id": 21,
+      "text": "Chị chồng"
+    },
+    {
+      "id": 22,
+      "text": "Anh rễ"
+    },
+    {
+      "id": 23,
+      "text": "Chị dâu"
+    },
+    {
+      "id": 24,
+      "text": "Anh vợ"
+    },
+    {
+      "id": 25,
+      "text": "Chị vợ"
+    },
+    {
+      "id": 26,
+      "text": "Cha vợ"
+    },
+    {
+      "id": 27,
+      "text": "Mẹ vợ"
+    },
+    {
+      "id": 28,
+      "text": "Cha chồng"
+    },
+    {
+      "id": 29,
+      "text": "Mẹ chồng"
+    }
+  ],
+  "pagination": {
+    "more": false
+  }
+}

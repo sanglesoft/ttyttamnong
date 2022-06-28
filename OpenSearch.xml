@@ -1,0 +1,7 @@
+﻿<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Trung tâm Y tế huyện Tam Nông</ShortName>
+  <Description>Tìm kiếm thông tin</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">http://ttyttamnong.vn/favicon.ico</Image>
+  <Url type="text/html" method="get" template="http://ttyttamnong.vn/search?q={searchTerms}"/>
+</OpenSearchDescription>
