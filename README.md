@@ -1,2 +1,3 @@
-# ttyttamnong.github.io
-ttyttamnong.vn
+# ttyttamnong
+
+[ttyttamnong.vn](https://sanglesoft.github.io/ttyttamnong/)
